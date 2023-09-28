@@ -79,9 +79,9 @@ Tuned Logistic Regression Model  is the best model to use for this classificatio
 - Target the needs of customers from area 415 since they have the highest churn rate and try to cater to their needs and get feedback from them to ensure more customers are not churning.
 
 
-AUTHOR:         
+#### AUTHOR:         
 marwa Osman: marwaosman9975@gmail.com    
 
-👉 LinkedIn:  https://www.linkedin.com/in/marwa-osman-00190b222/
+👉 [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
 
-👉 GitHub:  https://github.com/marwa9975
+👉 [GitHub](https://github.com/marwa9975)

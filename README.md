@@ -1,6 +1,7 @@
-# Customer Churn Analysis  
+# Customer Churn Prediction   
+![image](banner.png)
 
-# OVERVIEW    
+# OVERVIEW     
 Based on the data in the dataset, this project employs machine learning methods to create a model that can precisely predict which customers would churn.The 'churn' variable is the target. The predictive model is created using classification methods because the target variable is a categorical variable.  
 
 # BUSINESS UNDERSTANDING     
